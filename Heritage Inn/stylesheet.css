@@ -261,3 +261,8 @@ hr {
     color: #db3236;
 }
  
+.developer-credit {
+    text-align: center;
+    padding: 20px 0 10px;
+    font-weight: bolder;
+}
