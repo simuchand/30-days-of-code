@@ -4,6 +4,6 @@
 
 The works in this repo is purely an idea that stuck my mind and just blinded designed to explore.
 
-**Day 01 | Feb 09** -> Heritage Inn \n
-                       * Hotel landing page with basic HTML and CSS \n
-                       * Neomorphism Design \n
+### Day 01 | Feb 09 -> Heritage Inn 
+* Hotel landing page with basic HTML and CSS 
+* Neomorphism Design 
