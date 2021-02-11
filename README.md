@@ -11,3 +11,8 @@ The works in this repo is purely an idea that stuck my mind and just blinded des
 ### Day 02 | Feb 10 -> Think Innovate
 * Conference landing page with basic HTML, CSS and JavaScript
 * Login and Register options added
+
+### Day 03 | Feb 11 -> Math Infinity
+* Company Sign up page with HTML, CSS and JavaScript
+* Password Validation
+* Neomorphism Design 
