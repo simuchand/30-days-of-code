@@ -16,3 +16,8 @@ The works in this repo is purely an idea that stuck my mind and just blinded des
 * Company Sign up page with HTML, CSS and JavaScript
 * Password Validation
 * Neomorphism Design 
+
+### Day 04 | Feb 12 -> Calculator
+* Basic calculator functinality with HTML, CSS and JavaScript
+* Basic calculator calculations validations
+* Neomorphism Design 
