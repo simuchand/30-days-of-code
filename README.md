@@ -22,6 +22,6 @@ The works in this repo is purely an idea that stuck my mind and just blinded des
 * Basic calculator calculations and validations
 * Neomorphism Design 
 
-### Day 04 | Feb 13 -> Digital Clock
+### Day 05 | Feb 13 -> Digital Clock
 * Digital Clock with HTML, CSS, JavaScript
 * Neomorphism Design 
