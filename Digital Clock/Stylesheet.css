@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0 auto;
+    overflow: hidden;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    color: #555;
+    background-color: #ecf0f3;
+}
+
+header {
+    width: 100vw;
+    height: fit-content;
+    display: block;
+    font-size: 3.0vw;
+    font-weight: bolder;
+    letter-spacing: 0.2em;
+    padding: 2vh 2vh 0.5vh;
+    font-family: 'Iceberg', sans-serif;
+}
+
+header h1 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.time-container {
+    width: 70vw;
+    height: 45vh;
+    margin: 5vh auto;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: inset 6px 6px 6px #cbced1,
+    inset -6px -6px 6px #ffffff;
+}
+
+.time-container h1 {
+    width: fit-content;
+    height: fit-content;
+    font-size: 10vw;
+    text-align: center;
+    color: #db4437;
+    margin: auto;
+    padding-top: 3vh;
+}
+
+.time-container h3 {
+    text-align: center;
+    color: black;
+    letter-spacing: 0.15em;
+    font-family: "Roboto Light", serif;
+    font-size: 1.5vw;
+    display: block;
+    margin: 0;
+}
+
+.color-container {
+    width: 100%;
+    margin: 5vh auto 0;
+    justify-content: center;
+    display: flex;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: block;
+    margin: 0 1vw;
+    padding: 2px;
+    box-shadow: 20px 20px 20px #cbced1,
+    -20px -20px 20px #ffffff;
+    transition: 0.5s ease-in-out;
+}
+
+.dot:hover {
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+    box-shadow: none;
+}
+
+
+.color1 {
+    background-color: #4285F4;
+}
+
+.color2 {
+    background-color: #db4437;
+}
+
+.color3 {
+    background-color: #F4B400;
+}
+
+.color4 {
+    background-color: #0F9D58;
+}
+
+.developer-credit {
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px 0 10px;
+    font-weight: bolder;
+}
