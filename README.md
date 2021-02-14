@@ -25,3 +25,8 @@ The works in this repo is purely an idea that stuck my mind and just blinded des
 ### Day 05 | Feb 13 -> Digital Clock
 * Digital Clock with HTML, CSS, JavaScript
 * Neomorphism Design 
+
+### Day 06 | Feb 14 -> Form Validation
+* Form vallidation with HTML, CSS, JavaScript
+* Form validations by conditions.
+* Neomorphism Design 
