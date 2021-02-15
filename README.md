@@ -30,3 +30,6 @@ The works in this repo is purely an idea that stuck my mind and just blinded des
 * Form vallidation with HTML, CSS, JavaScript
 * Form validations by conditions.
 * Neomorphism Design 
+
+### Day 07 | Feb 15 -> Neumorphism Buttons
+* Buttton styles in neumorphism designs with HTML and CSS
