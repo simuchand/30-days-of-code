@@ -34,3 +34,8 @@ The works in this repo is purely an idea that stuck my mind and just blinded des
 ### Day 07 | Feb 15 -> Neumorphism Buttons
 * Buttton styles in neumorphism designs with HTML and CSS
 * Neomorphism Design 
+
+### Day 08 | Feb 15 -> Neumorphism Toggle for Dark and Light theme
+* Toggle style in neumorphism desing with HTML and CSS.
+* implementation of Dark and Light theme with JavaScript.
+* Neomorphism Design 
