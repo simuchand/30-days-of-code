@@ -1,0 +1,229 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background: #d4e7f7;
+    overflow-x: hidden;
+}
+
+body::-webkit-scrollbar {
+    width: 8px;
+    background: #ecf0f3;
+    border-radius: 8px 0 0 8px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #2f3640;
+    border-radius: 0 0 0 0;
+}
+
+header {
+    display: flex;
+    width: 100%;
+    height: 10%;
+    margin: 0 auto;
+    background: white;
+    top: 0;
+    position: fixed;
+    z-index: 10;
+}
+
+header a {
+    margin: auto 10px;
+    text-decoration: none;
+    font-size: 1.4vw;
+    color: #666666;
+    font-family: Helvetica, sans-serif;
+    transition: a 0.2s ease-in-out;
+}
+
+header a:hover {
+    color: #1a1a1a;
+}
+
+.about01-container {
+    display: flex;
+    background: #ffe89c;
+    height:fit-content;
+    color: black;
+    font-family: Helvetica, sans-serif;
+    margin: 40px 0 0;
+}
+
+.about-content {
+    width: 50%;
+    margin: 50px 0 50px 50px;
+}
+
+.about-content h1 {
+    text-align: right;
+    font-weight: bold;
+    font-size: 3.8vw;
+}
+
+.about-content p {
+    text-align: right;
+    padding: 0 0 0 20%;
+    letter-spacing: 0.05em;
+    line-height: 1.5;
+}
+
+.about-content a {
+    float: right;
+    background: #3cba5490;
+    padding: 10px;
+    font-size: 2.0vw;
+    letter-spacing: 0.1em;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.about-content a:hover {
+    background: #3cba54;
+}
+
+.about-img {
+    width: 40%;
+}
+
+.dsc_logo {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.progate_logo {
+    display: block;
+    width: 50%;
+    margin: 100px auto 0;
+}
+
+.medias {
+    display: block;
+    width: 100%;
+    height: fit-content;
+    margin: 0;
+}
+
+.medias h1 {
+    display: block;
+    height: 100%;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 3.5vw;
+    margin: 50px auto;
+}
+
+footer {
+    background: white;
+    color: black;
+    text-align: center;
+    height: fit-content;
+    margin: 0;
+    padding: 10px;
+}
+
+footer h3 {
+    display: block;
+    margin-top: 1%;
+    font-size: 1.5vw;
+}
+
+footer a {
+    display: inline-block;
+    color: #666666;
+    text-decoration: none;
+    margin: 10px 25px 10px 0;
+    font-size: 1.5vw;
+    cursor: pointer;
+}
+
+footer a:hover {
+    color: black;
+}
+
+footer p {
+    margin: 0;
+    font-weight: bolder;
+    font-size: 2.5vw;
+    color: #3cba54;
+    cursor: pointer;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media only screen and (max-width: 767px) {
+    header {
+        height: 6%;
+    }
+
+    header img {
+        width: 25%;
+    }
+
+    header a {
+        font-size: 2.5vw;
+    }
+
+    .about01-container {
+        display: block;
+        align-items: center;
+        margin: 30px 0 0;
+    }
+    .about-content, .about-img {
+        float: none;
+        display: block;
+        width: 100%;
+        align-items: center;
+    }
+
+    .about-content {
+        width: 100%;
+        padding: 0 0 50px;
+        margin: 50px 0 0 0;
+    }
+
+    .about-content h1,
+    .about-content p,
+    .about-content a{
+        text-align: center;
+        padding: 0;
+    }
+
+    .about-content a {
+        display: block;
+        width: 50%;
+        font-size: 4.5vw;
+        float: none;
+        margin: 0 auto;
+        padding: 10px;
+    }
+
+    .about-content p {
+        padding: 0 5%;
+    }
+
+    .dsc_logo {
+        display: block;
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .progate_logo {
+        display: block;
+        width: 15%;
+        margin: 0 auto 0;
+        padding-top: 40px;
+    }
+}
