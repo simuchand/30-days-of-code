@@ -43,3 +43,7 @@ The works in this repo is purely an idea that stuck my mind and just blinded des
 ### Day 09 | Feb 17 -> CODE & BUILD Season 1
 * Responsive website with HTML and CSS
 * Event page for an event in my club.
+
+### Day 10 | Feb 18 -> Portfolio
+* Non-Responsive portfolio launcher with HTML, CSS and JavaScript
+* Neomorphism Design 
