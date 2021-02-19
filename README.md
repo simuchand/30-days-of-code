@@ -4,6 +4,8 @@
 
 The works in this repo is purely an idea that stuck my mind and just blinded designed to explore.
 
+## HTML, CSS and JavaScript
+
 ### Day 01 | Feb 09 -> Heritage Inn 
 * Hotel landing page with basic HTML and CSS 
 * Neomorphism Design 
@@ -47,3 +49,9 @@ The works in this repo is purely an idea that stuck my mind and just blinded des
 ### Day 10 | Feb 18 -> Portfolio
 * Non-Responsive portfolio launcher with HTML, CSS and JavaScript
 * Neomorphism Design 
+
+## Android App Development
+
+### Day 11 | Feb 19 -> Android Development 101
+* Exploring Android Development Basic
+* MVVM Architecture Android 
