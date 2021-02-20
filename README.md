@@ -55,3 +55,7 @@ The works in this repo is purely an idea that stuck my mind and just blinded des
 ### Day 11 | Feb 19 -> Android Development 101
 * Exploring Android Development Basic
 * MVVM Architecture Android 
+
+### Day 12 | Feb 20 -> Contacts App
+* CURD operations with RecyclerView
+* Part I - Create data and insert into the List.
