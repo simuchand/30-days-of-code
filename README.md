@@ -63,3 +63,8 @@ The works in this repo is purely an idea that stuck my mind and just blinded des
 ### Day 13 | Feb 21 -> Contacts App
 * CURD operations with RecyclerView
 * Part II - Delete data from the List.
+
+### Day 14 | Feb 22 -> E-Connect
+* Exploring Navigation Component
+* Navigation within Fragment
+* Nested RecyclerView
